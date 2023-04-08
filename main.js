@@ -45,6 +45,8 @@ function fetchProducts() {
         }))
 }
 
+
+
 openBtn.addEventListener("click", toggleFunc)
 openBtn.addEventListener("click", sepet)
 closeBtn.addEventListener("click", toggleFunc)

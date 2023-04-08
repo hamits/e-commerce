@@ -2,14 +2,14 @@
 
 <h1> Bir Web Sitesi Çalışması</h1>
 
-<p>Bu projede JavaScript kullanılarak bir harcama hesap programı yapılmıştır.</p>
+<p>Bu E-Ticaret sitesi API kullanılarak alınan verilerle oluşturulmuştur.</p>
+<p>Seçilen ürünler sepete ekler. Toplam fiyat sepette gösterilir.Sepet sekmesinde seçilen ürünler silinebilir.</p>
+<p>Bu projede kullanılan teknolojiler HTML-CSS-JS</p>
 
 ***
 
 
-projeye buradan bakabilirsiniz => <a href="https://hamits.github.io/expense-list/"> **E-Ticaret**   
+projeye buradan bakabilirsiniz => <a href="https://hamits.github.io/e-commerce/"> **E-Ticaret**   
 
 
 ***
-
-![](ekran.gif)
